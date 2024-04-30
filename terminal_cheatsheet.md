@@ -31,3 +31,12 @@ Flags are used to further improve the functionality for your terminal commands. 
 | - a  | Essentially means **all**, can be used with `ls` to list all files and directories, including hidden ones |
 | - h  | Help command for...commands |
 | - y  | Answer yes to all prompts |
+
+## Git Commands 
+
+Below are a few useful **Git** commands!
+
+* `git init` - Initialises a git repo.
+* `git add -A` - Stages new and modified files within a git repo.
+* `git commit -m "MESSAGE HERE"` - Commits staged files, complete with a message for the commit.
+* `git push` - Pushes the commited files to the git repo on GitHub!
